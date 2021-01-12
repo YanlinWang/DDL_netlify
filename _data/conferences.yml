@@ -427,8 +427,9 @@
   date: Sep 13-17, 2021
   place: Bilbao, Basque Country (Spain)
   sub: DM 
+  note: '<b>NOTE</b>: '
   
-  - title: SIGIR
+- title: SIGIR
   year: 2021
   id: sigir
   link: https://sigir.org/sigir2021/call-for-full-papers/
@@ -441,7 +442,7 @@
          <br>Feb 2, 2021: Abstract Deadline. 
          <br>Apr 19, 2021: Notification.'
          
-  - title: ICDAR (time zone unknown)
+- title: ICDAR (time zone unknown)
   year: 2021
   id: icdar
   link: https://icdar2021.org/dates/
@@ -454,4 +455,4 @@
          <br>Apr 26, 2021: Notification.'
          
 
-         
+       
