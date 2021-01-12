@@ -495,9 +495,20 @@
   id: vis
   link: http://ieeevis.org/year/2021/welcome
   deadline: '2020-12-04 23:59:00'
-  timezone: GMT
+  timezone: UTC+0
   date: Jun 14-18, 2021
   place: Zurich, Switzerland
   sub: vishci
   note: '<b>NOTE</b>: 
          <br>Abstract deadline: November 25, 2020 '
+
+- title: CHI
+  year: 2021
+  id: chi
+  link: https://chi2021.acm.org/contents/deadlines
+  deadline: '2020-09-17 23:59:00'
+  timezone: UTC+0
+  date: May 8-13, 2021
+  place: Online
+  sub: vishci
+  note: '<b>NOTE</b>: '
