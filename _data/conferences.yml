@@ -512,3 +512,14 @@
   place: Online
   sub: vishci
   note: '<b>NOTE</b>: '
+
+- title: UbiComp
+  year: 2020
+  id: ubicomp
+  link: https://ubicomp.hosting.acm.org/ubicomp2021/
+  deadline: '2020-05-15 23:59:00'
+  timezone: UTC+0
+  date: Sep 12-17, 2020
+  place: Online
+  sub: vishci
+  note: '<b>NOTE</b>: '
