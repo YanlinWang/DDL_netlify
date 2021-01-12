@@ -489,3 +489,15 @@
   place: New Orleans, LA, USA
   sub: vishci
   note: '<b>NOTE</b>: '
+
+- title: EuroVis
+  year: 2021
+  id: vis
+  link: http://ieeevis.org/year/2021/welcome
+  deadline: '2020-12-04 23:59:00'
+  timezone: GMT
+  date: Jun 14-18, 2021
+  place: Zurich, Switzerland
+  sub: vishci
+  note: '<b>NOTE</b>: 
+         <br>Abstract deadline: November 25, 2020 '
