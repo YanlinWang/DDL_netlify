@@ -418,9 +418,9 @@
   note: '<b>NOTE</b>: 
          <br>Notification of acceptance:	Nov 31, 2021.'     
          
-- title: ECML-PKDD (allows continuous submissions, time zone unknown)
+- title: ECML-PKDD (continuous submissions, time zone unknown)
   year: 2021
-  id: ecml-pkdd
+  id: ecmlpkdd
   link: https://2021.ecmlpkdd.org/
   deadline: '2021-01-31 23:59:00'
   timezone: UTC-12
