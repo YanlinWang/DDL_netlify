@@ -392,6 +392,16 @@
   timezone: UTC-12
   date: Aug 14-18, 2021
   place: Online
-  sub: DB
+  sub: DM
   note: '<b>NOTE</b>: 
          <br>May 17, 2021: Notification.'
+
+- title: CIKM
+  year: 2021
+  id: cikm
+  link: https://www.guide2research.com/conference/cikm-2021-acm-international-conference-on-information-and-knowledge-management
+  deadline: 'TBD'
+  timezone: UTC-12
+  date: Nov 1-5, 2021
+  place: Queensland, Australia
+  sub: DM
