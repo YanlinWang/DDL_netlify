@@ -3,15 +3,19 @@
   sub: SE
 - name: Program Language
   sub: PL
-- name: Data Mining
+- name: Knowledge, IR, Data Mining
   sub: DM
 - name: Database
   sub: DB
 - name: Information Retrieval
   sub: IR
-- name: Natural Language Processing
+- name: NLP
   sub: NLP
-- name: Artificial Intelligence
+- name: AI/ML
   sub: AI
 - name: System
   sub: SYS
+- name: Document
+  sub: DOC
+- name: Vis&HCI
+  sub: vishci
