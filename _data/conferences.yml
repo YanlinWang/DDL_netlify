@@ -478,3 +478,14 @@
   place: Online
   sub: vishci
   note: '<b>NOTE</b>: '
+
+- title: IEEE VIS (exact time unknown)
+  year: 2021
+  id: vis
+  link: http://ieeevis.org/year/2021/welcome
+  deadline: '2021-04-30 16:59:00'
+  timezone: UTC-8
+  date: Oct 24-29, 2021
+  place: New Orleans, LA, USA
+  sub: vishci
+  note: '<b>NOTE</b>: '
