@@ -468,3 +468,13 @@
          <br>Submission DDL: 1st of every month 5 p.m. PST,until March 2021.
          <br>Notification: 15th of the next month following the deadline'
        
+- title: HCI (time zone unknown)
+  year: 2021
+  id: hci
+  link: http://2021.hci.international/papers
+  deadline: '2020-11-10 23:59:00'
+  timezone: UTC-12
+  date: Jul 24-29, 2021
+  place: Online
+  sub: vishci
+  note: '<b>NOTE</b>: '
