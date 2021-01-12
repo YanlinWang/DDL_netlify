@@ -418,7 +418,7 @@
   note: '<b>NOTE</b>: 
          <br>Notification of acceptance:	Nov 31, 2021.'     
          
-- title: ECML-PKDD (allows continuous submissions, see website)
+- title: ECML-PKDD (allows continuous submissions, time zone unknown)
   year: 2021
   id: ecml-pkdd
   link: https://2021.ecmlpkdd.org/
@@ -440,6 +440,18 @@
   note: '<b>NOTE</b>: 
          <br>Feb 2, 2021: Abstract Deadline. 
          <br>Apr 19, 2021: Notification.'
+         
+  - title: ICDAR (time zone unknown)
+  year: 2021
+  id: icdar
+  link: https://icdar2021.org/dates/
+  deadline: '2021-02-08 23:59:00'
+  timezone: UTC-12
+  date: Sep 5-10, 2021
+  place: Lausanne, Switzerland
+  sub: DOC
+  note: '<b>NOTE</b>: 
+         <br>Apr 26, 2021: Notification.'
          
 
          
