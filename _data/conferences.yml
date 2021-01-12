@@ -476,7 +476,7 @@
   timezone: UTC-12
   date: Jul 24-29, 2021
   place: Online
-  sub: vishci
+  sub: VISHCI
   note: '<b>NOTE</b>: '
 
 - title: IEEE VIS (exact time unknown)
@@ -487,7 +487,7 @@
   timezone: UTC-8
   date: Oct 24-29, 2021
   place: New Orleans, LA, USA
-  sub: vishci
+  sub: VISHCI
   note: '<b>NOTE</b>: '
 
 - title: EuroVis
@@ -498,7 +498,7 @@
   timezone: UTC+0
   date: Jun 14-18, 2021
   place: Zurich, Switzerland
-  sub: vishci
+  sub: VISHCI
   note: '<b>NOTE</b>: 
          <br>Abstract deadline: November 25, 2020 '
 
@@ -510,7 +510,7 @@
   timezone: UTC+0
   date: May 8-13, 2021
   place: Online
-  sub: vishci
+  sub: VISHCI
   note: '<b>NOTE</b>: '
 
 - title: UbiComp
@@ -521,5 +521,5 @@
   timezone: UTC+0
   date: Sep 12-17, 2020
   place: Online
-  sub: vishci
+  sub: VISHCI
   note: '<b>NOTE</b>: '
