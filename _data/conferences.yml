@@ -454,5 +454,17 @@
   note: '<b>NOTE</b>: 
          <br>Apr 26, 2021: Notification.'
          
-
+  
+- title: VLDB
+  year: 2021
+  id: vldb
+  link: https://vldb.org/2021/?important-dates
+  deadline: '2021-03-01 16:59:00'
+  timezone: UTC-8
+  date: Aug 16-20, 2021
+  place: Copenhagen, Denmark
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Submission DDL: 1st of every month 5 p.m. PST,until March 2021.
+         <br>Notification: 15th of the next month following the deadline'
        
