@@ -69,10 +69,10 @@
 
 
 - title: PLDI
-  year: 2020
-  id: pldi20
+  year: 2021
+  id: pldi
   link: https://pldi20.sigplan.org/track/pldi-2020-papers
-  deadline: '2010-11-22 23:59:00'
+  deadline: '2020-11-20 23:59:00'
   timezone: UTC-12
   date: Jun 15-19, 2020
   place: Online Conference
