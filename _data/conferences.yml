@@ -83,17 +83,17 @@
 
 
 - title: OOPSLA (First Round)
-  year: 2020
-  id: oopsla20_1
+  year: 2021
+  id: oopsla1
   link: https://2020.splashcon.org/track/splash-2020-oopsla
-  deadline: '2020-05-15 23:59:00'
+  deadline: '2021-04-16 23:59:00'
   timezone: UTC-12
   date: Nov 15-20, 2020
   place: Online Conference
   sub: PL
   note: '<b>NOTE</b>: 
-         <br>Jul 11-16, 2020: Author Response. 
-         <br>Jul 31, 2020: Notification.'
+         <br>Jul 2, 2021: Notification -- 1st round.
+         <br>Aug 30, 2021: Notification -- final.'
 
 
 - title: POPL
