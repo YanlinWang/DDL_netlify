@@ -396,15 +396,17 @@
   note: '<b>NOTE</b>: 
          <br>May 17, 2021: Notification.'
 
-- title: CIKM (exact time not released yet)
+- title: CIKM
   year: 2021
   id: cikm
-  link: https://www.guide2research.com/conference/cikm-2021-acm-international-conference-on-information-and-knowledge-management
-  deadline: '2021-05-15 23:59:00'
+  link: https://www.cikm2021.org/
+  deadline: '2021-05-26 23:59:00'
   timezone: UTC-12
   date: Nov 1-5, 2021
   place: Queensland, Australia
   sub: DM
+  note: '<b>NOTE</b>: 
+         <br>May 19, 2021: Abstract deadline.'
 
 - title: ICDM
   year: 2021
