@@ -358,18 +358,19 @@
          <br>Sep 28, 2020: Abstract Deadline. 
          <br>Jan 12, 2021: Notification.'
 
-- title: SOSP (not sure exact date)
+- title: SOSP
   year: 2021
   id: sosp
   link: https://sosp2021.mpi-sws.org/
-  deadline: '2021-04-20 08:00:00'
+  deadline: '2021-05-07 08:00:00'
   timezone: UTC-7
   date: Oct 25-28, 2021
   place: Koblenz, Germany
   sub: SYS
   note: '<b>NOTE</b>: 
-         <br>Sep 28, 2020: Abstract Deadline. 
-         <br>Jan 12, 2021: Notification.'
+         <br>April 30, 2021: Abstract Deadline. 
+         <br>Jul 20-23, 2021: Author response. 
+         <br>Aug 9, 2021: Notification.'
 
 - title: UAI (Uncertainty in AI)
   year: 2021
@@ -420,16 +421,17 @@
   note: '<b>NOTE</b>: 
          <br>Notification of acceptance:    Nov 31, 2021.'
          
-- title: ECML-PKDD (continuous submissions, time zone unknown)
+- title: ECML-PKDD (continuous submissions)
   year: 2021
   id: ecmlpkdd
   link: https://2021.ecmlpkdd.org/
-  deadline: '2021-01-31 23:59:00'
+  deadline: '2021-04-02 23:59:00'
   timezone: UTC-12
   date: Sep 13-17, 2021
   place: Bilbao, Basque Country (Spain)
   sub: DM 
-  note: '<b>NOTE</b>: '
+  note: '<b>NOTE</b>: 
+         <br>Notification of acceptance:  June 18, 2021.'
   
 - title: SIGIR
   year: 2021
