@@ -98,17 +98,17 @@
 
 
 - title: POPL
-  year: 2021
-  id: popl21
-  link: https://popl21.sigplan.org/track/POPL-2021-research-papers
-  deadline: '2020-07-09 23:59:00'
+  year: 2022
+  id: popl22
+  link: https://popl22.sigplan.org/track/POPL-2022-popl-research-papers
+  deadline: '2021-07-08 23:59:00'
   timezone: UTC-12
-  date: Jan 17-22, 2021
-  place: Copenhagen, Denmark
+  date: Jan 16-21, 2022
+  place: Philadelphia, PA
   sub: PL
   note: '<b>NOTE</b>: 
-         <br>Sep 7-9, 2020: Author Response. 
-         <br>Oct 1, 2020: Notification: '
+         <br>Sep 4-8, 2021: Author Response. 
+         <br>Oct 1, 2021: Notification: '
 
 
 - title: WSDM
@@ -329,19 +329,19 @@
  
  
 - title: EMNLP
-  year: 2020
+  year: 2021
   id: emnlp
-  link: https://2020.emnlp.org
-  deadline: '2020-06-03 23:59:00'
+  link: https://2021.emnlp.org/
+  deadline: '2021-05-17 23:59:00'
   timezone: UTC-12
-  date: Nov 16-18, 2020
+  date: Nov 7-11, 2021
   place: ...
   sub: NLP
   note: '<b>NOTE</b>: 
-         <br>Anonymity period begins:	May 1, 2020. 
-         <br>Author response period: Aug 07-13, 2020. 
-         <br>Notification of acceptance:	September 14, 2020.
-         <br>Camera-ready due:	October 5, 2020'     
+         <br>Anonymity period begins:	April 17, 2021.
+         <br>Abstract submission deadline:	May 10, 2021. 
+         <br>Author response period: Jul 11-17, 2021. 
+         <br>Notification of acceptance:	Aug 25, 2021.'     
          
 
 - title: ICLR
