@@ -25,6 +25,32 @@
   sub: SE
   note: '<b>NOTE</b>:  
          <br>Jul 7, 2021: Notification.'
+
+- title: ICSEM
+  year: 2021
+  id: icsme
+  link: https://icsme2021.github.io/cfp/ResearchTrackCFP.html
+  abstract_deadline: '2021-04-26 23:59:00'
+  deadline: '2021-04-29 23:59:00'
+  timezone: UTC-12
+  date: Sep 27 - Oct 1, 2021 
+  place: Luxembourg City
+  sub: SE
+  note: '<b>NOTE</b>:  
+         <br>Author Notification: June 14th, 2021'
+         
+- title: ESEM
+  year: 2021
+  id: esem
+  link: https://conf.researchr.org/track/esem-2021/esem-2021-technical-papers
+  abstract_deadline: '2021-05-08 23:59:00'
+  deadline: '2021-05-15 23:59:00'
+  timezone: UTC-12
+  date: Oct 11 - 15, 2021 
+  place: Bari, Italy
+  sub: SE
+  note: '<b>NOTE</b>:  
+         <br>Author Notification: June 30, 2021'
          
 - title: OOPSLA (Second Round)
   year: 2020
@@ -528,3 +554,4 @@
   place: Online
   sub: VISHCI
   note: '<b>NOTE</b>: '
+
