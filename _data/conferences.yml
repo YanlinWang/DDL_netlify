@@ -154,18 +154,18 @@
 
 
 - title: WSDM
-  year: 2021
+  year: 2022
   id: wsdm
-  link: http://www.wsdm-conference.org/2021/
-  deadline: '2020-08-16 23:59:00'
+  link: http://www.wsdm-conference.org/2022/calls/
+  deadline: '2020-08-09 23:59:00'
   timezone: UTC-12
-  date: Mar 8-12, 2021
-  place: Jerusalem, Israel
+  date: Feb 21-25, 2022
+  place: Arizona, USA
   sub: 
     - DM
     - IR
   note: '<b>NOTE</b>: 
-         <br>Oct 16, 2020: Notification.'
+         <br>Oct 11, 2021: Notification.'
 
 
 - title: AAAI
@@ -242,69 +242,69 @@
 
 
 - title: SIGMOD (First Round)
-  year: 2021
+  year: 2022
   id: sigmod_1
-  link: http://2021.sigmod.org/
-  deadline: '2020-07-07 17:00:00'
+  link: https://2022.sigmod.org/calls_papers_important_dates.shtml
+  deadline: '2020-07-02 17:00:00'
   timezone: UTC-7
   date: June 20-25, 2021
   place: Xi'an, Shaanxi, China
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Aug 11-14, 2020: Author Response. 
-         <br>Sep 14, 2020: Notification for the initial submission. 
-         <br>Nov 25, 2020: Revision deadline. 
-         <br>Dec 23, 2020: Notification for the revised submission.'
+         <br>Aug 10-17, 2020: Author Response. 
+         <br>September 14, 2021: Notification of accept/revise/reject. 
+         <br>November 8, 2021: Revised paper submission. 
+         <br>December 8, 2021: Notification of accept/reject for revised submission.'
 
 
 - title: SIGMOD (Second Round)
   year: 2021
   id: sigmod_2
   link: http://2021.sigmod.org/
-  deadline: '2020-09-22 17:00:00'
+  deadline: '2020-09-15 17:00:00'
   timezone: UTC-7
   date: Jun 20-25, 2021
   place: Xi'an, Shaanxi, China
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Oct 27-30, 2020: Author Response. 
-         <br>Nov 30, 2020: Notification for the initial submission.
-         <br>Feb 10, 2021: Revision deadline. 
-         <br>Mar 10, 2021: Notification for the revised submission.'
+         <br>November 1-8, 2021: Author feedback phase (CMT will open on November 1, 11:59 PT, and close at November 8, 11:59 PT). 
+         <br>December 6, 2021: Notification of accept/revise/reject.
+         <br>February 7, 2022: Revised paper submission. 
+         <br>Mar 10, 2021: Notification of accept/reject for revised submission.'
 
 
 - title: ICDE (First Round)
-  year: 2021
+  year: 2022
   id: icde_1
-  link: https://icde2021.gr/
-  abstract_deadline: '2020-06-10 23:59:00'
-  deadline: '2020-06-17 23:59:00'
-  timezone: UTC-12
-  date: Apr 19-23, 2021
-  place: Chania, Crete, Greece
+  link: https://icde2022.ieeecomputer.my/important-dates/
+  deadline: '2021-07-21 23:59:00'
+  timezone: UTC-8
+  date: May 9-12, 2022
+  place: Kuala Lumpur, Malaysia
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Jun 10, 2020: Abstract Deadline. 
-         <br>Aug 11, 2020: Notification for the initial submission. 
-         <br>Sep 11, 2020: Revision deadline. 
-         <br>Oct 2, 2020: Notification for the revised submission.'
+         <br>Early Notification phase: August 25, 2021. 
+         <br>Rebuttal due: August 30, 2021. 
+         <br>Notification for Authors (Accept/Revise/Reject): September 22, 2021. 
+         <br>Revision due: October 27, 2021.
+         <br>Notification to authors (Accept/Reject): November 10, 2021.'
 
 
 - title: ICDE (Second Round)
-  year: 2021
+  year: 2022
   id: icde_2
-  link: https://icde2021.gr/
-  abstract_deadline: '2020-10-07 23:59:00'
-  deadline: '2020-10-14 23:59:00'
-  timezone: UTC-12
-  date: Apr 19-23, 2021
-  place: Chania, Crete, Greece
+  link: https://icde2022.ieeecomputer.my/important-dates/
+  deadline: '2021-11-17 23:59:00'
+  timezone: UTC-8
+  date: May 9-12, 2022
+  place: Kuala Lumpur, Malaysia
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Oct 7, 2020: Abstract Deadline. 
-         <br>Dec 15, 2020: Notification for the initial submission. 
-         <br>Jan 15, 2021: Revision Deadline. 
-         <br>Feb 9, 2021: Notification for revised submission.'
+         <br>Early notification phase: December 22, 2021. 
+         <br>Rebuttal due: January 7, 2022. 
+         <br>Notification for Authors (Accept/Revise/Reject): January 26, 2022.
+         <br>Revision Due: March 2, 2022.
+         <br>Notification to authors (Accept/Reject): March 16, 2022.'
 
 
 - title: IJCAI
