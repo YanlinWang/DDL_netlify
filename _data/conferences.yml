@@ -69,23 +69,25 @@
          <br>Author Notification: June 30, 2021'
          
 - title: OOPSLA (Second Round)
-  year: 2021
+  year: 2022
   id: oopsla_2
-  link: https://2021.splashcon.org/track/splash-2021-oopsla
-  deadline: '2021-08-13 23:59:00'
+  link: https://2022.splashcon.org/track/splash-2022-oopsla
+  deadline: '2021-04-15 23:59:00'
   timezone: UTC-12
-  date: Oct 17-22, 2021
-  place: Chicago, Illinois
+  date: Oct 14-19, 2022
+  place: Auckland, New Zealand
   sub: PL
   note: '<b>NOTE</b>: 
-         <br>Notification: Aug 30, 2021.'
+         <br>Author Response: Jun 12-15
+         <br>Early Notification: Jun 30
+         <br>Final Notification: Sep 1.'
 
 
-- title: ISSTA
+- title: ISSTA(?)
   year: 2021
-  id: issta21
+  id: issta
   link: https://conf.researchr.org/home/issta-2021
-  deadline: '2021-01-29 23:59:00'
+  deadline: '2022-01-29 23:59:00'
   timezone: UTC-12
   date: Jul 12-16, 2021
   place: Aarhus, Denmark
@@ -96,47 +98,47 @@
 
 
 - title: ESEC/FSE
-  year: 2021
-  id: esecfse21
-  link: https://2021.esec-fse.org
-  deadline: '2021-02-25 23:59:00'
+  year: 2022
+  id: esecfse22
+  link: https://2022.esec-fse.org/track/fse-2022-research-papers
+  deadline: '2022-03-17 23:59:00'
   timezone: UTC-12
-  date: Aug 23-27, 2021
-  place: Athens, Greece
+  date: Nov 14-18, 2022
+  place: Singapore
   sub: SE
   note: '<b>NOTE</b>: 
-         <br>Apr 27-30, 2021: Author Response.
-         <br>May 10-12, 2021: Additional Author Response. 
-         <br>May 21, 2021: Notification.'
+         <br>May 9-13: 1st Rebuttal period (all papers).
+         <br>May 30-31: Additional Author Response (selected papers). 
+         <br>Jun 14: Notification.'
 
 
 - title: PLDI
-  year: 2021
+  year: 2022
   id: pldi
-  link: https://pldi20.sigplan.org/track/pldi-2020-papers
-  deadline: '2020-11-20 23:59:00'
+  link: https://pldi22.sigplan.org/
+  deadline: '2021-11-19 23:59:00'
   timezone: UTC-12
-  date: Jun 15-19, 2020
-  place: Online Conference
+  date: Jun 20-24, 2022
+  place: San Diego, California
   sub: PL
   note: '<b>NOTE</b>: 
-         <br>Feb 3-5, 2020: Author Response. 
-         <br>Feb 21, 2020: Notification.'
+         <br>Feb 7-9: Author Response. 
+         <br>Feb 25: Notification.'
 
 
 - title: OOPSLA (First Round)
-  year: 2021
+  year: 2022
   id: oopsla1
-  link: https://2021.splashcon.org/track/splash-2021-oopsla
-  deadline: '2021-04-16 23:59:00'
+  link: https://2022.splashcon.org/track/splash-2022-oopsla
+  deadline: '2021-10-12 23:59:00'
   timezone: UTC-12
-  date: Oct 17-22, 2021
-  place: Chicago, Illinois
+  date: Oct 14-19, 2022
+  place: Auckland, New Zealand
   sub: PL
   note: '<b>NOTE</b>: 
-         <br>Jun 14-16, 2021: Author response.
-         <br>Jul 2, 2021: Notification -- 1st round.
-         <br>Aug 30, 2021: Notification -- final.'
+         <br>Nov 30 - Dec 3 2021: Author response.
+         <br>Dec 16, 2021: Early Notification -- 1st round.
+         <br>Feb 25, 2022: Notification -- final.'
 
 
 - title: POPL
@@ -198,11 +200,11 @@
          <br>Mar 18-23, 2021: Author Response. 
          <br>May 8, 2021: Notification.'
 
-- title: SDM
-  year: 2021
+- title: SDM(?)
+  year: 2022
   id: sdm
-  link: https://www.siam.org/conferences/cm/conference/sdm21
-  deadline: '2020-09-21 23:59:00'
+  link: https://www.siam.org/conferences/cm/conference/sdm22
+  deadline: '2021-09-21 23:59:00'
   timezone: UTC-5
   date: Mar 25-27, 2021
   place: Alexandria, Virginia, USA
@@ -214,8 +216,9 @@
 - title: The Web Conference
   year: 2022
   id: www
-  link: https://www2022.thewebconf.org/important-dates-for-authors/
-  deadline: '2020-10-21 23:59:00'
+  link: https://www2022.thewebconf.org
+  abstract_deadline: '2021-10-14 23:59:59'
+  deadline: '2021-10-21 23:59:59'
   timezone: UTC-12
   date: Apr 25-29, 2022
   place: Lyon, France
@@ -223,22 +226,22 @@
     - DM
     - IR
   note: '<b>NOTE</b>: 
-         <br>Oct 14: Abstract Deadline. 
-         <br>Jan 13: Notification.'
+         <br>Oct 14, 2021: Abstract Deadline. 
+         <br>Jan 13, 2022: Notification.'
 
 
 - title: DASFAA
-  year: 2021
+  year: 2022
   id: dasfaa
-  link: http://dm.iis.sinica.edu.tw/DASFAA2021/
-  deadline: '2020-11-04 23:59:00'
-  abstract_deadline: '2020-10-28 23:59:00'
-  timezone: UTC-7
-  date: Apr 11-14, 2021
-  place: Taipei, Taiwan, China
+  link: https://www.dasfaa2022.org
+  deadline: '2021-11-04 23:59:59'
+  abstract_deadline: '2021-10-28 23:59:59'
+  timezone: UTC+12
+  date: Apr 11-14, 2022
+  place: Virtual Conference
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Dec 28, 2020: Notification.'
+         <br>Jan 27, 2022: Notification.'
 
 
 - title: SIGMOD (First Round)
@@ -293,25 +296,25 @@
 - title: ICDE (Second Round)
   year: 2022
   id: icde_2
-  link: https://icde2022.ieeecomputer.my/important-dates/
-  deadline: '2021-11-17 23:59:00'
+  link: https://icde2022.ieeecomputer.my
+  deadline: '2021-11-17 23:59:59'
   timezone: UTC-8
   date: May 9-12, 2022
-  place: Kuala Lumpur, Malaysia
+  place: Virtual Conference
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Early notification phase: December 22, 2021. 
-         <br>Rebuttal due: January 7, 2022. 
-         <br>Notification for Authors (Accept/Revise/Reject): January 26, 2022.
-         <br>Revision Due: March 2, 2022.
-         <br>Notification to authors (Accept/Reject): March 16, 2022.'
+         <br>Dec 22, 2021: Early Notification phase. 
+         <br>Jan 7, 2022: Rebuttal due. 
+         <br>Jan 26, 2022: Notification for Authors (Accept/Revise/Reject).
+         <br>Mar 2, 2022: Revision due.
+         <br>Mar 30, 2022: Notification to authors (Accept/Reject).'
 
 
-- title: IJCAI
-  year: 2021
+- title: IJCAI(?)
+  year: 2022
   id: ijcai
-  link: https://ijcai-21.org/
-  deadline: '2021-01-20 23:59:00'
+  link: https://ijcai-22.org/
+  deadline: '2022-01-20 23:59:00'
   timezone: UTC-12
   date: Aug 21-26, 2021
   place: Montreal
@@ -324,19 +327,16 @@
 
 
 - title: ACL
-  year: 2021
+  year: 2022
   id: acl
-  link: https://2021.aclweb.org/
-  deadline: '2021-02-01 23:59:00'
+  link: https://www.2022.aclweb.org/calls
+  deadline: '2021-11-15 23:59:00'
   timezone: UTC-12
-  date: Aug 2-4, 2021
-  place: Bangkok, Thailand (ACL-IJCNLP 2021)
+  date: May 22-27, 2022
+  place: Dublin
   sub: NLP
-  note: '<b>NOTE</b>: 
-         <br>Anonymity period begins:	January 1, 2021. 
-         <br>Author response period:	March 25-31, 2021. 
-         <br>Notification of acceptance:	May 5, 2021.
-         <br>Camera-ready due:	June 1, 2021'         
+  note: '<b>NOTE</b>:  
+         <br>Notification of acceptance:	Feb 20'         
 
 
 - title: NIPS
@@ -351,22 +351,7 @@
   sub: AI
   note: '<b>NOTE</b>: 
          <br>Reviews released to authors: Aug 03, 2021.
-         <br>Paper notification: Sep 28, 2021.'
- 
-
-- title: NAACL
-  year: 2021
-  id: naacl
-  link: https://2021.naacl.org/
-  deadline: '2020-11-23 23:59:00'
-  timezone: UTC-12
-  date: June 6-11, 2021
-  place: Mexico City, Mexico
-  sub: NLP
-  note: '<b>NOTE</b>: 
-         <br>Anonymity period begins:	October 23, 2020. 
-         <br>Notification of acceptance:	March 10, 2021.
-         <br>Camera-ready due:	April 11, 2021'         
+         <br>Paper notification: Sep 28, 2021.'  
  
  
 - title: EMNLP
@@ -386,18 +371,19 @@
          
 
 - title: ICLR
-  year: 2021
+  year: 2022
   id: iclr
-  link: https://iclr.cc/Conferences/2021
-  abstract_deadline: '2020-09-28 08:00:00'
-  deadline: '2020-10-02 08:00:00'
+  link: https://iclr.cc/Conferences/2022
+  abstract_deadline: '2021-09-28 17:00:00'
+  deadline: '2021-10-05 17:00:00'
   timezone: UTC-7
-  date: Mar 4-8, 2021
+  date: Apr 25-29, 2022
   place: Vienna, Austria
-  sub: AI
+  sub: ML
   note: '<b>NOTE</b>: 
-         <br>Sep 28, 2020: Abstract Deadline. 
-         <br>Jan 12, 2021: Notification.'
+         <br>Sep 28, 2021: Abstract deadline. 
+         <br>Nov 8-22, 2021: Author discussion period . 
+         <br>Jan 24, 2022: Notification.'
 
 - title: SOSP
   year: 2021
@@ -475,11 +461,11 @@
   note: '<b>NOTE</b>: 
          <br>Notification of acceptance:  June 18, 2021.'
   
-- title: SIGIR
-  year: 2021
+- title: SIGIR (?)
+  year: 2022
   id: sigir
   link: https://sigir.org/sigir2021/call-for-full-papers/
-  deadline: '2021-02-09 23:59:00'
+  deadline: '2022-02-09 23:59:00'
   timezone: UTC-12
   date: Jul 11-15, 2021
   place: Online
@@ -502,13 +488,13 @@
          
   
 - title: VLDB
-  year: 2021
+  year: 2022
   id: vldb
   link: https://vldb.org/2021/?important-dates
-  deadline: '2021-03-01 16:59:00'
+  deadline: '2022-09-01 16:59:00'
   timezone: UTC-8
   date: Aug 16-20, 2021
-  place: Copenhagen, Denmark
+  place: 
   sub: DB
   note: '<b>NOTE</b>: 
          <br>Submission DDL: 1st of every month 5 p.m. PST,until March 2021.
