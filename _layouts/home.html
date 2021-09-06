@@ -57,15 +57,10 @@
             </div>
             <div class="row">
               <div class="meta col-xs-12">
-                <span class="local-timezone-hide">
-                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
-                  To view them in conference website timezones, click on them.
+                <span class="local-timezone-hide" style="color:red;font-weight:bold;">
+                  Deadlines are counted down according to your local <span class="local-timezone">America/New_York</span> time.<br>
+                  To open the conference website, click the name of the conference.
                 </span>
-              </div>
-              <div class="meta col-xs-12">
-                You can optionally export all deadlines to
-                <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/deadlines.ics">Google Calendar</a> or
-                <a href="{{ site.baseurl }}/deadlines.ics">.ics</a>.
               </div>
             </div>
         </div>
@@ -75,7 +70,7 @@
           <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
             <div class="row conf-row">
                 <div class="col-xs-5 col-sm-6">
-                    <a class="conf-title" href="{{ site.baseurl }}/conference?id={{ conf.id }}" target="_blank">{{conf.title}} {{conf.year}}</a>
+                    <a class="conf-title" href="{{conf.link}}" target="_blank">{{conf.title}} {{conf.year}}</a>
                 </div>
                 <div class="col-xs-7 col-sm-6">
                   <span class="timer"></span>
@@ -101,16 +96,20 @@
               </div>
               <div class="col-xs-12 col-sm-6">
                 <div class="deadline">
-                  <div>Deadline:
-                    <span class="deadline-time"></span>
+                  <div>
+                    Deadline in your local <span class="local-timezone">America/New_York</span> timezone:<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="deadline-local-time"></span>
+                  </div>
+                  <div>
+                    Deadline in timezone from conference website:<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="deadline-time"></span>
                   </div>
                 </div>
-                <div class="calendar"></div>
               </div>
             </div>
             <div class="row">
                 {% for sub in conf.sub %}
-                <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}" class="conf-sub" id="{{sub}}"></span>
+                <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}" class="conf-sub {{sub}}-tag"></span>
                 {% endfor %}
             </div>
             <hr>
@@ -123,8 +122,7 @@
         <footer>
           <div class="row">
             <div class="col-xs-12" style="text-align: center;">
-              This website is maintained by Yanlin Wang.<br>
-              Original Designer: <a href="https://github.com/abhshkdz/ai-deadlines" target="_blank">Abhishek Das</a>. 
+              Modified and maintained by <a href="https://lihui.info" target="_blank">Hui Li</a>. Original Designer: <a href="https://github.com/abhshkdz/ai-deadlines" target="_blank">Abhishek Das</a>.
             </div>
           </div>
         </footer>
@@ -172,10 +170,11 @@
         }
         {% for conf in site.data.conferences %}
         {% for sub in conf.sub %}
-        $('#{{conf.id}} #{{sub}}').html(sub2name["{{sub}}"].toLocaleLowerCase());
+        $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
         {% endfor %}
         {% if conf.deadline == "TBA" %}
           $('#{{conf.id}} .timer').html("TBA");
+          $('#{{conf.id}} .deadline-local-time').html("TBA");
           $('#{{conf.id}} .deadline-time').html("TBA");
         {% else %}
           // adjust date according to deadline timezone
@@ -187,35 +186,16 @@
             $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
           });
 
+          $('#{{conf.id}} .deadline-time').html(confDate.toString());
+
           // convert deadline to local timezone
           try {
             var localConfDate = moment.tz(confDate, local_timezone);
-            $('#{{conf.id}} .deadline-time').html(localConfDate.toString());
+            $('#{{conf.id}} .deadline-local-time').html(localConfDate.toString());
           }
           catch(err) {
             console.log("Error converting to local timezone.");
           }
-
-          // add calendar button
-          var myCalendar = createCalendar({
-            options: {
-              class: 'calendar-obj',
-
-              // You can pass an ID. If you don't, one will be generated for you
-              id: '{{conf.id}}'
-            },
-            data: {
-              // Event title
-              title: '{{conf.title}} {{conf.year}} deadline',
-
-              // Event start date
-              start: confDate.toDate(), // new Date('June 15, 2013 19:00'),
-
-              // Event duration
-              duration: 60,
-            }
-          });
-          document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
 
           // check if date has passed, add 'past' class to it
           var today = moment();
@@ -269,7 +249,7 @@
           }
         }
         store.set('{{ site.domain }}', subs);
-        window.history.pushState('', '', '{{ site.baseurl }}/?sub=' + subs.join());
+        window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -293,7 +273,7 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', '{{ site.baseurl }}/?sub=' + subs.join());
+          window.history.pushState('', '', '/?sub=' + subs.join());
         });
 
         // Event handler on sub click
@@ -310,7 +290,7 @@
           subs = [csub];
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', '{{ site.baseurl }}/?sub=' + subs.join());
+          window.history.pushState('', '', '/?sub=' + subs.join());
         });
     });
     <!-- Google analytics -->
