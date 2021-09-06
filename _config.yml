@@ -1,11 +1,11 @@
 title: CS Conference Deadlines 
 # email: 
-description: Countdowns to top DM/DB/IR/NLP/AI conference deadlines
-author: Hui Li
+description: Countdowns to top CS conference deadlines
+author: Yanlin Wang
 
-
-domain: ""
-baseurl: ""
+url: "https://yanlinwang.github.io/DDL"
+domain: "https://yanlinwang.github.io/DDL"
+baseurl: "/DDL"
 
 # twitter_username:
 # twitter_hashtag: 
