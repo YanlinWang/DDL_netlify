@@ -3,9 +3,11 @@ title: CS Conference Deadlines
 description: Countdowns to top CS conference deadlines
 author: Yanlin Wang
 
-url: "https://yanlinwang.github.io/DDL"
-domain: "https://yanlinwang.github.io/DDL"
-baseurl: "/DDL"
+# url: "https://yanlinwang.github.io/DDL"
+# domain: "https://yanlinwang.github.io/DDL"
+# baseurl: "/DDL"
+domain: ""
+baseurl:""
 
 # twitter_username:
 # twitter_hashtag: 
