@@ -370,6 +370,21 @@
          <br>Notification of acceptance:	Feb 20'         
 
 
+- title: NAACL
+  year: 2022
+  id: naacl
+  link: https://2022.naacl.org/calls/papers/
+  deadline: '2022-01-15 23:59:00'
+  timezone: UTC-12
+  date: 
+  place: 
+  sub: NLP
+  note: '<b>NOTE</b>: 
+         <br>Paper submission deadline to ARR: Jan 15
+         <br>Commitment deadline for NAACL: March 4
+         <br>Notification of acceptance:	April 7'         
+
+
 - title: NIPS
   year: 2021
   id: nips
