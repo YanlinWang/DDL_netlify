@@ -14,6 +14,33 @@
          <br>Nov 10: Author Response. 
          <br>Dec 3: Notification.'
 
+- title: ETAPS
+  year: 2022
+  id: etaps
+  link: https://etaps.org/2022/call-for-papers
+  deadline: '2021-10-14 23:59:00'
+  timezone: UTC-12
+  date: April 2-7, 2022
+  place: Munich, Germany
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Dec 7-9: Author Response. 
+         <br>Dec 23: Notification.'
+
+
+- title: SANER
+  year: 2022
+  id: saner
+  link: https://saner2022.uom.gr/restrack
+  deadline: '2021-10-21 23:59:00'
+  timezone: UTC-12
+  date: 
+  place: 
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Abstract submission deadline: October 14, 2021 AoE
+         <br>Notifications: December 16, 2021 AoE'
+
 
 - title: MSR
   year: 2022
@@ -86,17 +113,45 @@
 
 
 - title: ESEM
-  year: 2021
+  year: 2022
   id: esem
-  link: https://conf.researchr.org/track/esem-2021/esem-2021-technical-papers
-  abstract_deadline: '2021-05-08 23:59:00'
-  deadline: '2021-05-15 23:59:00'
+  link: https://conf.researchr.org/home/esem-2022
+  abstract_deadline: '2022-04-25 23:59:00'
+  deadline: '2022-05-02 23:59:00'
   timezone: UTC-12
-  date: Oct 11 - 15, 2021 
-  place: Bari, Italy
+  date: Sep 19 - 23, 2022 
+  place: Helsinki, Finland
   sub: SE
   note: '<b>NOTE</b>:  
-         <br>Author Notification: June 30, 2021'
+         <br> Abstract: April 25
+         <br>Author Notification: June 17'
+         
+
+- title: SEKE (C)
+  year: 2022
+  id: seke
+  link: http://ksiresearch.org/seke/seke22.html
+  deadline: '2022-03-01 23:59:00'
+  timezone: UTC-5
+  date:  
+  place: 
+  sub: SE
+  note: '<b>NOTE</b>:  
+         <br>Paper submission due: Midnight EST, March 1
+         <br>Notification of acceptance: April 20'
+         
+- title: SCAM (C)
+  year: 2022
+  id: scam
+  link: http://www.ieee-scam.org/2022/#cfpresearchtrack
+  deadline: '2022-06-23 23:59:00'
+  timezone: UTC-12
+  date:  
+  place: 
+  sub: SE
+  note: '<b>NOTE</b>:  
+         <br> Abstract: June 17
+         <br>Author Notification: July 25'
          
 - title: OOPSLA (Second Round)
   year: 2022
