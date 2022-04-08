@@ -456,19 +456,19 @@
  
  
 - title: EMNLP
-  year: 2021
+  year: 2022
   id: emnlp
-  link: https://2021.emnlp.org/
-  deadline: '2021-05-17 23:59:00'
+  link: https://2022.emnlp.org/
+  deadline: '2022-06-24 23:59:00'
   timezone: UTC-12
-  date: Nov 7-11, 2021
-  place: ...
+  date: December 9-11, 2022
+  place: Abu Dhabi, UAE
   sub: NLP
   note: '<b>NOTE</b>: 
-         <br>Anonymity period begins:	April 17, 2021.
-         <br>Abstract submission deadline:	May 10, 2021. 
-         <br>Author response period: Jul 11-17, 2021. 
-         <br>Notification of acceptance:	Aug 25, 2021.'     
+         <br>Anonymity period begins: May 24
+         <br>Abstract:	Jun 17.
+         <br>Author response period: Aug 23-29. 
+         <br>Notification of acceptance:	Oct 6.'     
          
 
 - title: ICLR
