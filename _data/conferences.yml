@@ -1,18 +1,18 @@
 ---
 
 - title: ICSE
-  year: 2022
+  year: 2023
   id: icse
-  link: https://conf.researchr.org/track/icse-2022/icse-2022-papers
-  deadline: '2021-09-03 23:59:00'
+  link: https://conf.researchr.org/track/icse-2023/icse-2023-technical-track
+  deadline: '2022-09-01 23:59:00'
   timezone: UTC-12
-  date: May 21-29, 2022
-  place: Pittsburgh, USA
+  date: May 14-20
+  place: Melbourne
   sub: SE
   note: '<b>NOTE</b>: 
-         <br>Aug 27: Abstract deadline.
-         <br>Nov 10: Author Response. 
-         <br>Dec 3: Notification.'
+         <br>Author first response (all papers): Nov 14-16.
+         <br>Second response period (some papers): Nov 28-29.
+         <br>Notification: Dec 9.'
 
 - title: ETAPS
   year: 2022
@@ -29,17 +29,17 @@
 
 
 - title: SANER
-  year: 2022
+  year: 2023
   id: saner
-  link: https://saner2022.uom.gr/restrack
-  deadline: '2021-10-21 23:59:00'
+  link: https://saner2023.must.edu.mo/
+  deadline: '2022-10-21 23:59:00'
   timezone: UTC-12
-  date: 
-  place: 
+  date: March 21-24
+  place: Macao
   sub: SE
   note: '<b>NOTE</b>: 
-         <br>Abstract submission deadline: October 14, 2021 AoE
-         <br>Notifications: December 16, 2021 AoE'
+         <br>Abstract deadline: October 14.
+         <br>Notifications: December 16.'
 
 
 - title: MSR
@@ -227,48 +227,50 @@
 
 
 - title: POPL
-  year: 2022
-  id: popl22
-  link: https://popl22.sigplan.org/track/POPL-2022-popl-research-papers
-  deadline: '2021-07-08 23:59:00'
+  year: 2023
+  id: popl
+  link: https://popl23.sigplan.org/
+  deadline: '2022-07-07 23:59:00'
   timezone: UTC-12
-  date: Jan 16-21, 2022
-  place: Philadelphia, PA
+  date: Jan 15-21
+  place: Boston, Massachusetts, United States
   sub: PL
   note: '<b>NOTE</b>: 
-         <br>Sep 4-8, 2021: Author Response. 
-         <br>Oct 1, 2021: Notification: '
+         <br>Rebuttal: Sep 6-9. 
+         <br>Notification of conditional acceptance: Sep 27.
+         <br>Revisions: Oct 26.
+         <br>Notification of final acceptance: Nov 7.'
 
 
 - title: WSDM
-  year: 2022
+  year: 2023
   id: wsdm
-  link: http://www.wsdm-conference.org/2022/calls/
-  deadline: '2021-08-09 23:59:00'
+  link: https://www.wsdm-conference.org/2023/calls/call-papers
+  deadline: '2022-08-12 23:59:00'
   timezone: UTC-12
-  date: Feb 21-25, 2022
-  place: Arizona, USA
+  date: Feb 27 - March 3, 2023
+  place: Singapore
   sub: 
     - DM
     - IR
   note: '<b>NOTE</b>: 
-         <br>Oct 11, 2021: Notification.'
+         <br>Notification: Oct 21.'
 
 
 - title: AAAI
-  year: 2022
+  year: 2023
   id: aaai
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: '2021-09-08 23:59:00'
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: '2022-08-15 23:59:00'
   timezone: UTC-12
-  date: Feb 2-9, 2021
-  place: Virtual Conference
+  date: Feb 7-14, 2023
+  place: Washington, DC, USA
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Aug 30, 2021: Abstract Deadline. 
-         <br>October 1, 2021: Abstracts and full papers for NeurIPS fast track submissions due. 
-         <br>October 15, 2021: Notification of Phase 1 rejections.
-         <br>November 29, 2021: Notification of final acceptance or rejection'
+         <br>Abstract deadlin: Aug 8. 
+         <br>Abstracts and full papers for NeurIPS fast track submissions due:. 
+         <br>Notification of Phase 1:.
+         <br>Notification of final acceptance or rejection:.'
 
 
 - title: ICML
@@ -329,36 +331,36 @@
          <br>Jan 27, 2022: Notification.'
 
 
-- title: SIGMOD (First Round)
-  year: 2022
-  id: sigmod_1
-  link: https://2022.sigmod.org/calls_papers_important_dates.shtml
-  deadline: '2021-07-02 17:00:00'
+- title: SIGMOD (Cycle B)
+  year: 2023
+  id: sigmod_b
+  link: https://2023.sigmod.org/
+  deadline: '2022-07-15 17:00:00'
   timezone: UTC-7
-  date: June 20-25, 2021
-  place: Xi'an, Shaanxi, China
+  date: June 18-23
+  place: Seattle, WA, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Aug 10-17, 2020: Author Response. 
-         <br>September 14, 2021: Notification of accept/revise/reject. 
-         <br>November 8, 2021: Revised paper submission. 
-         <br>December 8, 2021: Notification of accept/reject for revised submission.'
+         <br>Rebuttal: Aug 25-27. 
+         <br>Notification of accept/revise/reject: Sep 20. 
+         <br>Revised paper submission: Oct 20. 
+         <br>Final notification: Nov 23.'
 
 
-- title: SIGMOD (Second Round)
-  year: 2021
-  id: sigmod_2
-  link: http://2021.sigmod.org/
-  deadline: '2021-09-15 17:00:00'
+- title: SIGMOD (Cycle C)
+  year: 2023
+  id: sigmod_c
+  link: https://2023.sigmod.org/
+  deadline: '2022-10-15 17:00:00'
   timezone: UTC-7
-  date: Jun 20-25, 2021
-  place: Xi'an, Shaanxi, China
+  date: June 18-23, 2023
+  place: Seattle, WA, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>November 1-8, 2021: Author feedback phase (CMT will open on November 1, 11:59 PT, and close at November 8, 11:59 PT). 
-         <br>December 6, 2021: Notification of accept/revise/reject.
-         <br>February 7, 2022: Revised paper submission. 
-         <br>Mar 10, 2021: Notification of accept/reject for revised submission.'
+         <br>Rebuttal: Nov 25-27. 
+         <br>Notification of accept/revise/reject: Dec 20. 
+         <br>Revised paper submission: Jan 20. 
+         <br>Final notification: Feb 23.'
 
 
 - title: ICDE (First Round)
@@ -539,16 +541,16 @@
          <br>Aug 9, 2021: Notification.'
 
 - title: ICDM
-  year: 2021
+  year: 2022
   id: icdm
   link: https://icdm2021.auckland.ac.nz/cfp/
-  deadline: '2021-06-11 23:59:00'
+  deadline: '2022-06-10 23:59:00'
   timezone: UTC-7
-  date: Dec 7-10, 2021
-  place: Auckland, New Zealand
+  date: 
+  place: 
   sub: DM
   note: '<b>NOTE</b>: 
-         <br>Notification of acceptance:    Nov 31, 2021.'
+         <br>Notification: Aug 31'
          
 - title: ECML-PKDD (continuous submissions)
   year: 2021
@@ -636,18 +638,18 @@
          <br>Abstract deadline: November 25, 2020 '
 
 - title: CHI
-  year: 2022
+  year: 2023
   id: chi
-  link: https://chi2022.acm.org/for-authors/presenting/papers/
-  deadline: '2021-09-09 23:59:00'
+  link: https://chi2023.acm.org/2022/04/14/chi23-updated-revise-and-resubmit-paper-process/
+  deadline: '2022-09-15 23:59:00'
   timezone: UTC-12
-  date: April 30 - May 6, 2022
-  place: New Orleans, LA
+  date: April 23 - 28, 2023
+  place: 
   sub: VISHCI
   note: '<b>NOTE</b>: 
-         <br> Abstract deadline: Aug 12.
-         <br> Notification: Feb 10, 2022.
-         <br>CHI 2022 Papers will include a revise and resubmit phase'
+         <br> Abstract deadline: .
+         <br> Notification: Jan 11-13, 2023.
+         <br>CHI 2023 Papers will include a revise and resubmit phase'
 
 - title: UbiComp
   year: 2020
