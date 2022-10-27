@@ -416,16 +416,17 @@
 
 
 - title: ACL
-  year: 2022
+  year: 2023
   id: acl
-  link: https://www.2022.aclweb.org/calls
-  deadline: '2022-01-15 23:59:00'
+  link: https://2023.aclweb.org/calls/main_conference/
+  deadline: '2022-01-20 23:59:00'
   timezone: UTC-12
-  date: May 22-27, 2022
-  place: Dublin
+  date: July 9-14, 2023
+  place: Toronto, Canada
   sub: NLP
   note: '<b>NOTE</b>:  
-         <br>Notification of acceptance:	Feb 23'         
+         <br>Author response period	March 17-24, 2023
+         <br>Notification of acceptance	May 1, 2023'    
 
 
 - title: NAACL
